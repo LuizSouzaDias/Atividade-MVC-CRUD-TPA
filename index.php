@@ -75,7 +75,7 @@ header('Content-Type: text/html; charset=utf-8');     //aceitar acento php
                     <tr>
                         <td>1</td>                               <!-- tbody = info das tabelas, nesse caso o td é usado    ( tag tr nao muda, sempre representa a linha )-->
                         <td>Luiz Henrique</td>
-                        <td>luizinhoreidelas@gmail.com</td>
+                        <td>luizhenrique@gmail.com</td>
                         <td>02548562654</td>
                         <td>13/06/2005</td>
                         <td>Rua Obi número 237 BETAS</td>
